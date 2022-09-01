@@ -8,16 +8,25 @@
   3. Calculate the total number of votes each candidate received.
   4. Calculate the percentage of votes each cadidate received.
   5. Determine the winner of the election based on popular vote.
+  6. Demonstrate where votes were casted by county and the percentage of each.
   
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code Version 1.70.2 
 
 ## Summary
-![image](https://user-images.githubusercontent.com/110706169/187783816-6d0fef55-2462-4d69-9de3-3f82c34354b5.png)
+![image](https://user-images.githubusercontent.com/110706169/187830847-41b3a303-b26d-47e4-b18a-26ee7075a47c.png)
 
 The analysis shows that:
 - There were 369,711 votes cast in total
+- The counties where the votes were casted:
+    - Jefferson
+    - Denver
+    - Arapahoe
+- The results per county were:
+    - Jefferson received 10.5% of total votes and 38,855 number of votes casted.
+    - Denver received 82.8% of total votes and 306,055 number of votes casted.
+    - Arapahoe received 6.7% of total votes and 24,801 number of votes casted.
 - The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
