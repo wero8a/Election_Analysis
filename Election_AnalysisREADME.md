@@ -42,3 +42,4 @@ The analysis shows that:
 
 
 ## Challenge Summary
+We can modify this script to tally votes from every state which would facillitate any kind of elections including state and presidential. We can also ask voters to enter their Social Security Number, cross-reference it with a federal database and make sure every single voter is "real" and can only cast one vote. This would potentially speed up the election process as well as avoid any voting fraud.
